@@ -85,8 +85,9 @@
 
 ## Геймплейные баги - проблемы с экономикой, теряете интерес, что-то не понимаете итд
 
-1. 
-2. 
+1. [Способности наносящие урон в статистике матча показываю 0 урона.](https://github.com/Logerr23/Reprobates-reports/issues/25)
+2. [Нет ограничений на просмотр рекламы.](https://github.com/Logerr23/Reprobates-reports/issues/24)
+3. [Рывком пользоваться не удобно.](https://github.com/Logerr23/Reprobates-reports/issues/23)
 
 ## UI баги - кривая верстка или текст, неудобно, непонятно итд (приложите скриншот)
 1. [В главном меню, в верхней части экрана, черная полоса.](https://github.com/Logerr23/Reprobates-reports/issues/22)
