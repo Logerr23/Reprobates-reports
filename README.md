@@ -110,6 +110,8 @@
 18. [В меню выбора героя, контент вкладки "описание героя" не влезает в отведенную для него рамку.](https://github.com/Logerr23/Reprobates-reports/issues/5)
 19. [В меню выбора героя, у всех героев, на кнопке "описание героя" изображен Метаган.](https://github.com/Logerr23/Reprobates-reports/issues/4)
 20. [Картинка загрузочного экрана вылезает за границы экрана.](https://github.com/Logerr23/Reprobates-reports/issues/1)
+21. [В окне "Artefacts" нельзя посмотреть нижнюю строчку артефактов.](https://github.com/Logerr23/Reprobates-reports/issues/27)
+22. [В бестиарии не работает счетчик найденых существ.](https://github.com/Logerr23/Reprobates-reports/issues/26)
 
 # Фитбек
 
